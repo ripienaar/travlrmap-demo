@@ -1,0 +1,35 @@
+:map:
+  :data:
+    - europe.yaml
+    - america.yaml
+  :width: "80%"
+  :height: "90%"
+  :zoom_control: true
+  :map_type_control: true
+  :street_view_control: true
+  :overview_control: false
+  :pan_control: true
+  :title: My Travels
+
+:views:
+  :default:
+    :lat: 20
+    :lon: 0
+    :zoom: 2
+    :description: World
+  :europe:
+    :lat: 48.195387
+    :lon: 10.634766
+    :zoom: 6
+    :description: Europe
+
+:types:
+  :visit:
+    :icon: https://polar-harbor-2295.herokuapp.com/markers/mini-ORANGE-BLANK.png
+    :description: Visit
+  :transit:
+    :icon: https://polar-harbor-2295.herokuapp.com/markers/mini-BLUE-BLANK.png
+    :description: Transit
+  :lived:
+    :icon: https://polar-harbor-2295.herokuapp.com/markers/mini-GREEN-BLANK.png
+    :description: Lived

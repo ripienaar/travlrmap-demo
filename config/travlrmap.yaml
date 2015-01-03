@@ -15,7 +15,7 @@
   :default:
     :lat: 20
     :lon: 0
-    :zoom: 2
+    :zoom: 3
     :description: World
   :europe:
     :lat: 48.195387

@@ -12,8 +12,8 @@
   :title: My Travels
   :cluster: true
   :cluster_grid_size: 30
-  :cluster_minumum_size: 2
-  :cluster_zoom_on_click: true
+  :cluster_minumum_size: 3
+  :cluster_zoom_on_click: false
 
 :views:
   :default:

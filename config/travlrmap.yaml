@@ -14,6 +14,9 @@
   :cluster_grid_size: 30
   :cluster_minumum_size: 3
   :cluster_zoom_on_click: false
+  :cluster_image_path: /cluster/cluster-RED-
+  :cluster_image_extension: png
+  :cluster_image_sizes: [24, 26, 31, 37, 43]
 
 :views:
   :default:
@@ -29,11 +32,11 @@
 
 :types:
   :visit:
-    :icon: https://polar-harbor-2295.herokuapp.com/markers/mini-ORANGE-BLANK.png
+    :icon: /markers/marker-RED-REGULAR.png
     :description: Visit
   :transit:
-    :icon: https://polar-harbor-2295.herokuapp.com/markers/mini-BLUE-BLANK.png
+    :icon: /markers/marker-BLUE-REGULAR.png
     :description: Transit
   :lived:
-    :icon: https://polar-harbor-2295.herokuapp.com/markers/mini-GREEN-BLANK.png
+    :icon: /markers/marker-GREEN-REGULAR.png
     :description: Lived

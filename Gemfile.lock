@@ -9,7 +9,7 @@ GEM
     multi_json (1.10.1)
     multi_xml (0.5.5)
     nokogiri (1.5.2)
-    rack (1.6.0)
+    rack (1.5.2)
     rack-protection (1.5.3)
       rack
     ruby_kml (0.1.7)
@@ -20,12 +20,13 @@ GEM
       rack-protection (~> 1.4)
       tilt (~> 1.3, >= 1.3.4)
     tilt (1.4.1)
-    travlrmap (0.0.14)
+    travlrmap (0.0.17)
       bundler
       gli
       httparty (= 0.11.0)
       httparty
       nokogiri (= 1.5.2)
+      rack (= 1.5.2)
       ruby_kml
       sinatra
 
@@ -33,4 +34,4 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  travlrmap (= 0.0.14)
+  travlrmap (= 0.0.17)

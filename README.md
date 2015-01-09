@@ -4,7 +4,7 @@ What?
 Sample site to show off https://github.com/ripienaar/travlrmap, you can see this
 running on heroku: http://travlrmap-demo.devco.net/
 
-For further information see https://github.com/ripienaar/travlrmap
+For further information see https://ripienaar.github.io/travlrmap/
 
 Contact?
 --------

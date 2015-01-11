@@ -18,6 +18,9 @@
   :cluster_image_extension: png
   :cluster_image_sizes: [24, 26, 31, 37, 43]
   :show_geocode_link: true
+  :map_types: [hybrid, roadmap, satellite, terrain, osm, watercolor, toner, darkmatter, positron, mapquest]
+  :default_map_type: roadmap
+
 
 :views:
   :default:

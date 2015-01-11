@@ -1,7 +1,5 @@
 :map:
-  :data:
-    - europe.yaml
-    - america.yaml
+  :data: :visited
   :width: "80%"
   :height: "90%"
   :zoom_control: true
@@ -44,3 +42,11 @@
   :lived:
     :icon: /markers/marker-GREEN-REGULAR.png
     :description: Lived
+
+:sets:
+  :visited:
+    :description: Visited
+    :data: travels
+  :wishlist:
+    :description: Travel Wishlist
+    :data: wishlist

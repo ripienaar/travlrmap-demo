@@ -6,6 +6,7 @@ GEM
     httparty (0.11.0)
       multi_json (~> 1.0)
       multi_xml (>= 0.5.2)
+    json (1.8.2)
     multi_json (1.10.1)
     multi_xml (0.5.5)
     nokogiri (1.5.2)
@@ -20,7 +21,7 @@ GEM
       rack-protection (~> 1.4)
       tilt (~> 1.3, >= 1.3.4)
     tilt (1.4.1)
-    travlrmap (1.0.0)
+    travlrmap (1.1.0)
       bundler
       gli
       httparty (= 0.11.0)
@@ -34,4 +35,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  travlrmap (= 1.0.0)
+  json
+  travlrmap (= 1.1.0)

@@ -1,0 +1,49 @@
+:points:
+- :type: :visit
+  :href: http://en.wikipedia.org/wiki/Taj_Mahal
+  :lon: 78.0421552
+  :title: Taj Mahal
+  :country: India
+  :lat: 27.1750151
+- :type: :visit
+  :href: http://en.wikipedia.org/wiki/Petra
+  :lon: 35.4425807
+  :title: Petra
+  :country: Jordan
+  :lat: 30.3251734
+- :type: :visit
+  :href: http://en.wikipedia.org/wiki/Colosseum
+  :lon: 12.4922309
+  :title: Colosseum
+  :country: Italy
+  :lat: 41.8902102
+- :type: :visit
+  :href: http://en.wikipedia.org/wiki/Chichen_Itza
+  :lon: -88.5686445
+  :title: Chichen-itza
+  :country: Mexico
+  :lat: 20.682618
+- :type: :visit
+  :href: http://en.wikipedia.org/wiki/Machu_Picchu
+  :lon: -72.5449629
+  :title: Machu Picchu
+  :country: Peru
+  :lat: -13.1631412
+- :type: :visit
+  :href: http://en.wikipedia.org/wiki/Great_Wall_of_China
+  :lon: 103.456128
+  :title: Great Wall
+  :country: China
+  :lat: 37.48576
+- :type: :visit
+  :href: http://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)
+  :lon: -43.2104872
+  :title: Christ the Redeemer
+  :country: Brazil
+  :lat: -22.951916
+- :type: :visit
+  :href: http://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)
+  :lon: 31.1324955
+  :title: Giza Necropolis
+  :country: Egypt
+  :lat: 29.9772962

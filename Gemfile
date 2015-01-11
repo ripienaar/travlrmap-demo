@@ -1,3 +1,4 @@
 source 'http://rubygems.org'
 
-gem 'travlrmap', '1.0.0'
+gem 'json'
+gem 'travlrmap', '1.1.0'

@@ -1,3 +1,5 @@
+require "bundler"
+
 Bundler.require(:default)
 
 set :run, false
